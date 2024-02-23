@@ -16,3 +16,10 @@ gcc ./shake.c -o shake.o
 ```
 
 In the above example, the filename is `my file.pdf`, to use blank space in command-line argument an escape character i.e. `\` is used before blank space.
+
+## References
+
+- [Introduction to Algorithms- Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+- [SHA-3 Standard: Permutation-Based Hash and
+Extendable-Output Functions](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.202.pdf)
+- [Falcon: Fast-Fourier Lattice-based Compact Signatures over NTRU](https://falcon-sign.info/falcon.pdf)
