@@ -1,8 +1,8 @@
-# An implementation of SHA-3 XOF SHAKE
+# Implementation of Falcon Digital Signature
 
-## To run
+## To compute SHAKE Digest for any input file
 
-After compilation, run the code on bash with the command-line arguments as follows:
+After compilation of `shake.c`, run the code on bash with the command-line arguments as follows:
 
 ```bash
 -f filepath -d desired-output-bits
